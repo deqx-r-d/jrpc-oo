@@ -13,7 +13,7 @@
   "dependencies": {
     "jrpc": "^3.1.2",
     "lit": "^2.0.2",
-    "ws": "^8.3.0"
+    "ws": "8.16.0"
   },
   "author": "Flatmax Pty Ltd",
   "license": "MIT",
